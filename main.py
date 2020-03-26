@@ -255,5 +255,5 @@ def add_weight(w1,w2=1):
 
 x=1
 x1=2
-print(x1)
+print(x1+x)
 
