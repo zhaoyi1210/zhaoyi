@@ -252,3 +252,8 @@ def add_weight(w1,w2=1):
 # y1,y2=add_weight(w2=weight,w1=weight1)
 # print(y1,y2)
 
+
+x=1
+x1=2
+print(x1)
+
